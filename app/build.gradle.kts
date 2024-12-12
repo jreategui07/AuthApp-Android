@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.authapp"
-    compileSdk = 34
+    namespace = "com.jonathanreategui.authapp"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.authapp"
+        applicationId = "com.jonathanreategui.authapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
